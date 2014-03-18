@@ -8,7 +8,8 @@
 				<h1 class="entry-title"><?php the_title(); ?></h1>
 			</header>
 			<div class="entry-content">
-				SUCK IT
+				<p>SUCK IT and see to be sure</p>
+				<p>THis is working quite fast</p>
 			</div>
 			<footer>
 				<?php wp_link_pages(array('before' => '<nav id="page-nav"><p>' . __('Pages:', 'FoundationPress'), 'after' => '</p></nav>' )); ?>

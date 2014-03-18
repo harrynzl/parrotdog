@@ -1,37 +1,16 @@
 /*
-/*
- Theme Name:   Parrot Dog Child
+ Theme Name:   Twenty Fourteen Child
  Theme URI:    http://example.com/twenty-fourteen-child/
- Description:  Parrot Dog Child Theme
- Author:       Harrison Burt
- Author URI:   http://knomad.co.nz
- Template:     ParrotDog
+ Description:  Twenty Fourteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentyfourteen
  Version:      1.0.0
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
-
+ Text Domain:  twenty-fourteen-child
 */
 
-@import url("../ParrotDog/style.css");
+@import url("../parrotdog/style.css");
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
-*/
-
-/* ---------------------------------------------------------------------------- 
-  
-  Unfortunately WordPress will require a style.css file
-  located in the theme's root folder for stuff to work.
-
-  However, we will not be using vanlilla CSS. We're using Sass.
-
-  Sass is a superset of CSS that adds in amazing features
-  such as variables, nested selectors and loops. It's also
-  the easiest way to customize Foundation.
-
-  All Sass files are located in the /scss folder.
-
-  Please read the README.md file before getting started. More info on how
-  to use Sass with Foundation can be found here:
-  http://foundation.zurb.com/docs/sass.html
-
----------------------------------------------------------------------------- */
