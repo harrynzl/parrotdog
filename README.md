@@ -1,4 +1,4 @@
-parrotdog
-=========
+boiler-plate
+============
 
-Parrot Dog Website
+Wordpress Boiler Plate Theme
